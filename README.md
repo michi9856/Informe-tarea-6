@@ -1,7 +1,18 @@
 # Informe-tarea-6
 
+Universidad de las Fuerzas Armadas "ESPE"
 
+Fundamentos de Circuitos Electricos
 
+Tarea Nº5
+
+Alumno: Michael Toroche
+
+NRC: 10063
+
+Docente: Ing. darwin alulema
+
+Tema: Cap 9 y 10 del libro Principios de circuitos eléctricos Thomas L. Floyd Octava edición
 
 
 1. Objetivo
