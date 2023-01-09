@@ -4,7 +4,7 @@ Universidad de las Fuerzas Armadas "ESPE"
 
 Fundamentos de Circuitos Electricos
 
-Tarea Nº5
+Tarea Nº6
 
 Alumno: Michael Toroche
 
@@ -12,10 +12,11 @@ NRC: 10063
 
 Docente: Ing. darwin alulema
 
-Tema: Cap 9 y 10 del libro Principios de circuitos eléctricos Thomas L. Floyd Octava edición
+Tema: Cap 11 y 12 del libro Principios de circuitos eléctricos Thomas L. Floyd Octava edición
 
 
-1. Objetivo
+# 1. Objetivo
+
 Objetivo General
 
 Analizar y compreder los problemas utilizando los conocimientos de los capítulos 11-12 a la corriente y voltaje de forma alterna y como funcionan los capacitores, usando
@@ -36,7 +37,7 @@ Determinar que es la onda seno y su fórmula.
 
 Definir que son los fasores y el osciloscopio.
 
-2.- MARCO TEÓRICO
+# 2. MARCO TEÓRICO
 Capitulo 11
 
 ![Untitled (15)](https://user-images.githubusercontent.com/116761073/211370575-7b8c0635-ccd6-48cb-949f-3152aec41add.jpg)
