@@ -27,3 +27,9 @@ Definir que son los fasores y el osciloscopio.
 
 2.- MARCO TEÓRICO
 Capitulo 11
+
+![Untitled (15)](https://user-images.githubusercontent.com/116761073/211370575-7b8c0635-ccd6-48cb-949f-3152aec41add.jpg)
+
+![Untitled (16)](https://user-images.githubusercontent.com/116761073/211370669-e9a4e93b-46b8-46f7-9fa1-dca178e07e6d.jpg)
+
+![Untitled (17)](https://user-images.githubusercontent.com/116761073/211370751-896d4385-807e-4ce7-a6dc-036bfa9376b2.jpg)
