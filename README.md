@@ -45,3 +45,22 @@ Capitulo 11
 ![Untitled (16)](https://user-images.githubusercontent.com/116761073/211370669-e9a4e93b-46b8-46f7-9fa1-dca178e07e6d.jpg)
 
 ![Untitled (17)](https://user-images.githubusercontent.com/116761073/211370751-896d4385-807e-4ce7-a6dc-036bfa9376b2.jpg)
+
+# 3. RESOLUCION DE EJERCICOS
+
+# 4.VIDEO
+
+
+# 5. CONCLUSIONES
+
+Se comprendiendo previamente los conceptos que se va a utilizar en la resolución de ejercicios nos permite resolverlos de manera más rápida y también nos permite saber como usarlo en la parte práctica.
+
+Observamos que los procesos de carga y descarga varían segun el tiempo.
+
+Los fasores proporcionan un método gráfico para representar cantidades que tienen tanto magnitud como dirección (posición angular).
+
+El osciloscopio es básicamente un dispositivo de visualización que traza, en su pantalla, una gráfica de una señal eléctrica medida.
+
+# 6.BIBLIOGRAFIA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Octava edición. Pearson Educación
